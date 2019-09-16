@@ -21,3 +21,4 @@ target/
 amplisync-ws/lib
 amplisync-core/out
 amplisync-ws/out
+/amplisync-clients/DotNET C#/.vs/SQLiteSyncCOM/v16/Server/sqlite3/db.lock
